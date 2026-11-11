@@ -24,12 +24,12 @@ Mercury history starts **March 4, 2026**, so we have 8 months to work from and n
 | Subtenant ($1,046/mo, used for both periods since it continues) | $1,046 | $1,046 |
 | Other (Swimply) | $80 | – |
 | **Studio revenue** | **$10,532** | **$5,717** |
-| Running costs | ~$6,750 | ~$6,366 |
-| **Monthly result, before paying anyone to run it** | **≈ +$3,800** | **≈ –$650** |
+| Running costs | ~$6,655 | ~$6,341 |
+| **Monthly result, before paying anyone to run it** | **≈ +$3,875** | **≈ –$625** |
 
-**Running costs (Jun–Oct, per month):** rent + CAM + insurance $3,818 · utilities ~$870 · studio hosting (Jacob) ~$640 · supplies, software, platform fees, ads and other ~$790 · an estimated ~$250 for costs that don't run through Mercury (business insurance, tax prep, California $800 LLC tax). One-time items (a $700 door repair) and gear purchases are left out, and replaced with a small gear allowance (~$150/mo). Mar–May costs ran about $400/mo higher because the studio was busier.
+**Running costs (Jun–Oct, per month):** rent + CAM + insurance $3,818 · utilities ~$870 · studio hosting (Jacob) ~$640 · supplies, software, platform fees, ads and other ~$790 · an estimated ~$250 for costs that don't run through Mercury (business insurance, tax prep, California $800 LLC tax). One-time items (a $700 door repair) and gear purchases are left out, and replaced with a small gear allowance (~$150/mo). Mar–May costs ran about $300/mo higher because the studio was busier.
 
-**What changed in June:** Austin went from 60+ hours a week to about 1 hour a week. Studio revenue fell about 43% (Stripe about 53%). Costs are mostly fixed, so the monthly result went from about +$3.8k to about –$0.65k. The spring result included a lot of unpaid owner time. For reference, a part-time studio manager (20 hrs/wk) would cost roughly $29k/yr and a full-time one roughly $55–64k/yr (estimates).
+**What changed in June:** Austin went from 60+ hours a week to about 1 hour a week. Studio revenue fell about 43% (Stripe about 53%). Costs are mostly fixed, so the monthly result went from about +$3.9k to about –$0.6k. The spring result included a lot of unpaid owner time. For reference, a part-time studio manager (20 hrs/wk) would cost roughly $29k/yr and a full-time one roughly $55–64k/yr (estimates).
 
 **Early November:** Nov 1–10 brought in **$5,161** of studio revenue (Stripe $3,523, Peerspace $1,040, subtenant $598). That's a strong start. A full November, plus prior-year Stripe and Peerspace history, would show whether October was a low point or the new normal.
 
@@ -48,7 +48,7 @@ Mercury history starts **March 4, 2026**, so we have 8 months to work from and n
 
 To check together: whether the two tube lights belong to the studio or to Pat's rig, and which photo/cyc gear (strobes, hazer, floppies, green screens) the podcast-focused studio actually wants to keep.
 
-**Build-out** (stays with the space): slatted wood divider and shelves, reclaimed-wood wall panels, kitchenette, pendants, closet shelving. About **$17.3k** to replace new. It's only worth something while there's a lease to use it under: roughly $1.9k for the ~6.5 months left on the current term, up to ~$8.6k if a new multi-year lease is signed.
+**Build-out** (stays with the space): the cyc wall, front-room dividers, the upstairs podcast-studio wall, soundproofing, the custom downstairs office, plus the slatted divider and shelves, wall panels, kitchenette and pendants. It cost **about $60k**. It's attached to the building, and under a standard lease it belongs to the landlord when the lease ends, so it has no resale value. What it's worth is the **right to keep using it**, which lasts only as long as a lease. Walls and soundproofing last far longer than a lease (assume ~15 years, so about $4k a year of use). That's ~$2.2k for the 6.5 months left on the current term. After May 2027 the space and its build-out are the landlord's, and the renewal is what lets the studio keep using them. The figures below split the renewal-term value evenly between seller and buyer: **~$8k with a ~3-year renewal, ~$12k with a new ~5-year lease**, and $0 without a landlord deal.
 
 **Systems:** the website and booking system (custom booking, Stripe, GoHighLevel, Supabase), Bookabl, the Google Ads account, both phone numbers, and the Innago account. Since the studio is being rebranded, **the Amigo name isn't used after hand off**, and amigostudiosoceanside.com forwards to the new brand so search traffic carries over. The booking-system code is offered under a permanent license for the studio's use. Ownership of the code and the details are to agree.
 
@@ -84,18 +84,18 @@ Three methods, side by side (whole business):
 
 | Method | Low | Middle | High | What it says |
 |---|---:|---:|---:|---|
-| **Assets** (equipment + build-out) | $8k | $15k | $26k | Main anchor. Low = quick sale with no lease; middle = used value with the lease moved over; high = in-use value with a new multi-year lease |
-| **Earnings** (multiple of profit before owner pay) | $0 | $0 | $0 | At the Jun–Oct run-rate there's no profit to multiply. If spring-level bookings return without full-time owner hours, this method could add ~$24–32k |
-| **Cost to set up from scratch** | — | — | $70–100k | Gear, build-out, months of rent while setting up, website and booking system. This is a ceiling, not a price |
+| **Assets** (equipment + build-out) | $8k | $21.5k | $30k | Main anchor. Low = gear at quick-sale value, no lease; middle = gear at used value + build-out on a ~3-year renewal; high = gear in use + build-out on a new ~5-year lease |
+| **Earnings** (multiple of profit before owner pay) | $0 | $0 | $0 | At the Jun–Oct run-rate there's no profit to multiply. If spring-level bookings return without full-time owner hours, this method could add ~$26–35k |
+| **Cost to set up from scratch** | — | — | $113–150k | Gear, build-out, months of rent while setting up, website and booking system. This is a ceiling, not a price |
 | **Listings & reputation** | $0 | ~$5k | ~$10k | Bookings a new zero-review listing would lose in its first 1–2 years (Peerspace ~$4–8k, Instagram ~$1–1.5k). Low is $0 because without the lease there's no listing to keep |
 | Small bonus for an open, booking studio | $0 | ~$1.5k | ~$3k | Subtenant in place, phone numbers, working booking system |
 
 | | Low | Middle | High |
 |---|---:|---:|---:|
-| **Whole business** | **~$8k** | **~$22k** | **~$39k** |
-| **75% interest** | **~$6k** | **~$16k** | **~$30k** |
+| **Whole business** | **~$8k** | **~$28k** | **~$43k** |
+| **75% interest** | **~$6k** | **~$21k** | **~$32k** |
 
-The 75% is a straight share of the whole. Because the 75% being sold is the controlling stake and the buyer already owns the rest, no minority discount applies. Cash in the bank and any liabilities (card balances, prepaid bookings, taxes) are settled separately at closing. Possible upside: if bookings recover to near spring levels, the whole business could support roughly $50–58k (that's the earnings method adding ~$24–32k on top of the high-case assets; the reputation is part of what produces those earnings, so it isn't added again). The Google profile isn't counted yet; once its rating is in, it may add a few thousand.
+The 75% is a straight share of the whole. Because the 75% being sold is the controlling stake and the buyer already owns the rest, no minority discount applies. Cash in the bank and any liabilities (card balances, prepaid bookings, taxes) are settled separately at closing. Possible upside: if bookings recover to near spring levels, the whole business could support roughly $56–65k (that's the earnings method adding ~$26–35k on top of the high-case assets; the reputation is part of what produces those earnings, so it isn't added again). The Google profile (5.0, 27 reviews) isn't counted in these figures yet; it may add a few thousand.
 
 <div class="price"><strong>Proposed price:</strong> ______________________</div>
 
