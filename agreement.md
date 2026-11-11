@@ -37,15 +37,9 @@ Some options to react to (numbers are just examples):
 - **Pat:**
 - **Agreed:**
 
-## New name / brand
+## Brand, Amigo name and domain
 
-- **Austin:**
-- **Pat:**
-- **Agreed:**
-
-## Amigo name and domain
-
-- **Agreed:** The Amigo name isn't used after hand off. amigostudiosoceanside.com forwards to the new brand.
+- **Agreed:** The new brand is up to Pat and the new partners. All Amigo branding comes off everything once Austin leaves. amigostudiosoceanside.com forwards to the new brand.
 
 ## Ongoing agreements
 

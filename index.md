@@ -23,9 +23,9 @@ Everything for the hand off lives on this page. Tick boxes, fill in names and da
 ## Timeline
 
 - Nov 2026: agree big decisions, talk to landlord
-- Dec 2026: buyer/seller agreement drafted, new brand picked, accounts list ready
+- Dec 2026: buyer/seller agreement drafted, accounts list ready
 - Jan 15, 2027: hand off day — keys, accounts, money
-- Jan–Feb 2027: rebrand live, Amigo signage down, redirects on
+- Jan–Feb 2027: Amigo branding off everything, website forwarding
 - May 31, 2027: current lease ends (new lease must be signed before this)
 
 ## To-do
@@ -45,14 +45,15 @@ Everything for the hand off lives on this page. Tick boxes, fill in names and da
 - [ ] Make Pat the main contact with the landlord — Who: \_\_\_ · By: \_\_\_
 - [ ] Subtenant: confirm sublease continues under the new lease — Who: \_\_\_ · By: \_\_\_
 
-### Rebrand
+### Remove Amigo branding
 
-No Amigo name used after hand off.
+How the studio rebrands is up to Pat and the new partners. All that matters: **Amigo branding comes off everything once Austin leaves.**
 
-- [ ] Pick new name — Who: \_\_\_ · By: \_\_\_
-- [ ] Remove all Amigo signage — Who: \_\_\_ · By: \_\_\_
-- [ ] New logo / colors — Who: \_\_\_ · By: \_\_\_
-- [ ] Update Google profile, listings, socials to new name — Who: \_\_\_ · By: \_\_\_
+- [ ] Signage (inside and out) — Who: \_\_\_ · By: \_\_\_
+- [ ] Website (forwards to the new brand, see Website) — Who: \_\_\_ · By: \_\_\_
+- [ ] Google Business Profile, Peerspace, ShareGrid listings — Who: \_\_\_ · By: \_\_\_
+- [ ] Instagram / socials — Who: \_\_\_ · By: \_\_\_
+- [ ] Email, invoices, booking emails, Stripe statement name — Who: \_\_\_ · By: \_\_\_
 
 ### Website
 
