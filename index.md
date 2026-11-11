@@ -38,6 +38,7 @@ Everything for the hand off lives on this page. Tick boxes, fill in names and da
 
 ### Lease & landlord
 
+- [ ] Contact landlord about renewing the lease past May 31, 2027 (new rent, how many years) — Who: \_\_\_ · By: \_\_\_
 - [ ] Talk to landlord (Live Wire) about new lease in Pat's company name past May 31, 2027 — Who: \_\_\_ · By: \_\_\_
 - [ ] Release Austin + past partners (Jeremiah, Beau) from the old lease — Who: \_\_\_ · By: \_\_\_
 - [ ] Sort out the security deposit — Who: \_\_\_ · By: \_\_\_
