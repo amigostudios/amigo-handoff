@@ -3,6 +3,8 @@ title: Our agreement
 permalink: /agreement/
 ---
 
+[← Back to Amigo Studios Hand Off](../)
+
 # Our agreement
 
 Each of us writes what we think makes sense next to our name. When we agree, it goes in **Agreed**. To edit, use the link at the bottom of the page.

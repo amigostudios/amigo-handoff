@@ -3,6 +3,8 @@ title: Amigo Studios valuation
 permalink: /valuation/
 ---
 
+[← Back to Amigo Studios Hand Off](../)
+
 # Amigo Studios: shared valuation and handover notes
 
 Prepared November 2026 for Austin Faure (75%) and Pat Lang (25%). **Confidential:** this includes lease terms covered by the lease's confidentiality clause (§9), which allows them to be shared with prospective assignees. Please keep it between the owners, any incoming partners, and your advisors.
