@@ -60,7 +60,7 @@ To check together: whether the two tube lights belong to the studio or to Pat's 
 | Peerspace, podcast studio | 5.0, 9 reviews, Power Host |
 | ShareGrid (gear rentals and sales; Austin's personal profile) | 94 reviews, 100% positive |
 | Instagram @amigostudiosoceanside | ~6.6K followers |
-| Google Business Profile | rating and review count to be added |
+| Google Business Profile | 5.0, 27 reviews |
 
 Renaming a listing or handle on the same account keeps its reviews and followers. A new account starts at zero. So their value depends on handing over the accounts themselves, through each platform's own process. Peerspace brings in about $8.5–10.7k a year from ~2 bookings a month, and at that pace rebuilding 95 reviews would take 4–5 years. The value below is what a new zero-review listing would likely lose in bookings over its first one to two years. ShareGrid covers gear rental rather than studio bookings, and no ShareGrid income runs through the studio account, so it's valued at little or nothing unless the gear-rental side continues. A "formerly Amigo Studios" line on the listings for a few months keeps the older reviews credible.
 
