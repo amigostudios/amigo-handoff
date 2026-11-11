@@ -20,13 +20,14 @@ Everything for the hand off lives on this page. Tick boxes, fill in names and da
 | | New partner | | |
 | | New partner | | |
 
-## Timeline
+## Timeline (tentative)
 
-- Nov 2026: agree big decisions, talk to landlord
-- Dec 2026: buyer/seller agreement drafted, accounts list ready
-- Jan 15, 2027: hand off day — keys, accounts, money
-- Jan–Feb 2027: Amigo branding off everything, website forwarding
-- May 31, 2027: current lease ends (new lease must be signed before this)
+- ASAP: landlord agrees to renew the lease to Pat
+- Nov–Dec 2026: agree terms, accounts list ready
+- **Jan 1, 2027:** buyer / seller agreement signed
+- **Jan 15, 2027:** hand off day: keys, accounts transferred, money
+- **Feb 1, 2027:** Amigo branding off everything, website forwarding
+- **May 31, 2027:** current lease ends (new lease signed before this)
 
 ## To-do
 
