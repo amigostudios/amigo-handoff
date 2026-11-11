@@ -20,9 +20,21 @@ th{background:var(--clay);color:#fff;font-weight:600;text-align:left;padding:7px
 td{padding:7px 10px;border-bottom:1px solid var(--line);vertical-align:top}
 .price{margin:18px 0;padding:14px 18px;border:2px dashed var(--clay);background:var(--cream);font-size:18px}
 footer{color:var(--muted);font-size:13px;margin-top:40px}
+li.task{list-style:none;margin-left:-1.2em}
+.box{display:inline-block;width:1.4em;color:var(--clay);font-size:1.1em}
+.box.done{color:#3c7a3c}
 </style></head>
 <body><main>
 <div class="kicker">Amigo Studios · Oceanside · hand off</div>
 {{ content }}
 <footer>Edit this page on GitHub: <a href="https://github.com/amigostudios/amigo-handoff/edit/main/{{ page.path }}">{{ page.path }}</a></footer>
-</main></body></html>
+</main><script>
+document.querySelectorAll('li').forEach(function(li){
+  var n=li.firstChild; if(!n||n.nodeType!==3) return;
+  var m=n.textContent.match(/^\s*\[( |x|X)\]\s*/); if(!m) return;
+  n.textContent=n.textContent.slice(m[0].length);
+  var b=document.createElement('span'); b.className='box'+(m[1]===' '?'':' done'); b.textContent=m[1]===' '?'☐':'☑';
+  li.insertBefore(b,li.firstChild); li.classList.add('task');
+});
+</script>
+</body></html>
