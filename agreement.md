@@ -72,13 +72,6 @@ New lease in Pat's company's name past May 31, 2027, landlord sign-off, Austin a
 <div class="ho-f agreed"><b>Agreed</b><textarea rows="1" data-key="ag.lease.agreed" placeholder="…" aria-label="Agreed"></textarea><span class="ho-fmeta" data-meta="ag.lease.agreed"></span></div>
 </div>
 
-## Security deposit ($3,691)
-
-<div class="ho-fields">
-<div class="ho-f"><b>Austin</b><textarea rows="1" data-key="ag.deposit.austin" placeholder="…" aria-label="Austin"></textarea><span class="ho-fmeta" data-meta="ag.deposit.austin"></span></div>
-<div class="ho-f"><b>Pat</b><textarea rows="1" data-key="ag.deposit.pat" placeholder="…" aria-label="Pat"></textarea><span class="ho-fmeta" data-meta="ag.deposit.pat"></span></div>
-<div class="ho-f agreed"><b>Agreed</b><textarea rows="1" data-key="ag.deposit.agreed" placeholder="…" aria-label="Agreed"></textarea><span class="ho-fmeta" data-meta="ag.deposit.agreed"></span></div>
-</div>
 
 ## Partners and shares after hand off
 

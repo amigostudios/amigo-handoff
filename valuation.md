@@ -74,8 +74,7 @@ Renaming a listing or handle on the same account keeps its reviews and followers
 - **Rent:** $3,691/mo base + ~$65 CAM + ~$62 insurance = **$3,818/mo all-in** (≈ $2.18/sq ft). That's roughly in line with asking rents on the S Coast Hwy corridor.
 - **Ends May 31, 2027.** There's no renewal option or rate in the lease, so a renewal has to be negotiated. Past increases have been about 4% a year. A 4% renewal would add about $150/mo; a market-rate renewal (~$2.40/sq ft) about $380/mo.
 - **Who's on it:** three individuals, **Jeremiah Idema, Austin Faure and Beau Trembly**, jointly. Jeremiah and Beau are past partners who moved out of state around late 2024 and have no stake in the current business. **The current LLC isn't named on the lease.**
-- **What that means:** the space can't move with the LLC by itself. The handover needs a **landlord-approved new lease (or assignment and amendment) to Pat's entity, combined with the renewal past May 2027, that releases Austin, Jeremiah and Beau.** The 2024 First Amendment did exactly this when it released Brandon Gleed, so there's a template. The landlord will likely ask for the new tenant's financials and possibly a guarantee or deposit.
-- **Security deposit: $3,691**, held by the landlord ($2,971 paid in 2021 + $720 in 2024). It most likely came from the original lessees, so it's handled **outside the business value**: the new tenant reimburses whoever funded it, and the deposit moves to the new lease (or the landlord refunds it and takes a new one). Who funded it, and in what shares, still needs to be confirmed.
+- **What that means:** the space can't move with the LLC by itself. The handover needs a **landlord-approved new lease (or assignment and amendment) to Pat's entity, combined with the renewal past May 2027, that releases Austin, Jeremiah and Beau.** The 2024 First Amendment did exactly this when it released Brandon Gleed, so there's a template. The landlord will likely ask for the new tenant's financials and possibly a guarantee.
 
 ---
 
@@ -85,7 +84,7 @@ Three methods, side by side (whole business):
 
 | Method | Low | Middle | High | What it says |
 |---|---:|---:|---:|---|
-| **Assets** (equipment + build-out, deposit excluded) | $8k | $15k | $26k | Main anchor. Low = quick sale with no lease; middle = used value with the lease moved over; high = in-use value with a new multi-year lease |
+| **Assets** (equipment + build-out) | $8k | $15k | $26k | Main anchor. Low = quick sale with no lease; middle = used value with the lease moved over; high = in-use value with a new multi-year lease |
 | **Earnings** (multiple of profit before owner pay) | $0 | $0 | $0 | At the Jun–Oct run-rate there's no profit to multiply. If spring-level bookings return without full-time owner hours, this method could add ~$24–32k |
 | **Cost to set up from scratch** | — | — | $70–100k | Gear, build-out, months of rent while setting up, website and booking system. This is a ceiling, not a price |
 | **Listings & reputation** | $0 | ~$5k | ~$10k | Bookings a new zero-review listing would lose in its first 1–2 years (Peerspace ~$4–8k, Instagram ~$1–1.5k). Low is $0 because without the lease there's no listing to keep |
@@ -96,7 +95,7 @@ Three methods, side by side (whole business):
 | **Whole business** | **~$8k** | **~$22k** | **~$39k** |
 | **75% interest** | **~$6k** | **~$16k** | **~$30k** |
 
-The $3,691 security deposit isn't in these figures; it's settled separately with whoever funded it. The 75% is a straight share of the whole. Because the 75% being sold is the controlling stake and the buyer already owns the rest, no minority discount applies. Cash in the bank and any liabilities (card balances, prepaid bookings, taxes) are settled separately at closing. Possible upside: if bookings recover to near spring levels, the whole business could support roughly $50–58k (that's the earnings method adding ~$24–32k on top of the high-case assets; the reputation is part of what produces those earnings, so it isn't added again). The Google profile isn't counted yet; once its rating is in, it may add a few thousand.
+The 75% is a straight share of the whole. Because the 75% being sold is the controlling stake and the buyer already owns the rest, no minority discount applies. Cash in the bank and any liabilities (card balances, prepaid bookings, taxes) are settled separately at closing. Possible upside: if bookings recover to near spring levels, the whole business could support roughly $50–58k (that's the earnings method adding ~$24–32k on top of the high-case assets; the reputation is part of what produces those earnings, so it isn't added again). The Google profile isn't counted yet; once its rating is in, it may add a few thousand.
 
 <div class="price"><strong>Proposed price:</strong> ______________________</div>
 
@@ -115,13 +114,12 @@ The $3,691 security deposit isn't in these figures; it's settled separately with
 ## 6. Next steps and open items
 
 1. **Landlord conversation:** a new lease or assignment to Pat's entity past May 31, 2027, at what rent and term, releasing Austin, Jeremiah and Beau. Everything else depends on this.
-2. **Security deposit:** confirm who funded the $2,971 (2021) and $720 (2024) payments, and agree how they're reimbursed.
-3. **Revenue history:** prior-year Stripe and Peerspace data (Nov 2025 – Feb 2026 and spring 2025), a Stripe breakdown of rental vs services, and the full November 2026 numbers.
-4. **Equipment walk-through:** confirm what stays, what belongs to Pat, and what isn't needed. Get real used prices on the larger lights if they matter.
-5. **Costs and obligations outside Mercury:** business insurance, tax prep, the California LLC tax, the three failed ClckPay/SDCCPM payments ($3,930.78; confirm nothing is owed), prepaid bookings and card balances.
-6. **Subtenant:** the sublease document, the landlord's consent, the end date, and any subtenant deposit.
-7. **Transfers:** confirm with Peerspace whose host account the listings sit under (the podcast listing shows "Michael B.") and that it can move to Pat's entity with the reviews; capture the Google rating. Then hand over the Google Business Profile, phone numbers, Peerspace host account, Instagram (renamed, not new), ShareGrid if wanted, Google Ads, Bookabl, Innago, domain and redirect, booking-system license, and the forward from amigostudiosoceanside.com to the new brand.
-8. **Paperwork:** check the operating agreement's buyout terms, then do the purchase agreement and the lease documents together. Get short written confirmations from Jeremiah and Beau that they hold no interest in the current business.
+2. **Revenue history:** prior-year Stripe and Peerspace data (Nov 2025 – Feb 2026 and spring 2025), a Stripe breakdown of rental vs services, and the full November 2026 numbers.
+3. **Equipment walk-through:** confirm what stays, what belongs to Pat, and what isn't needed. Get real used prices on the larger lights if they matter.
+4. **Costs and obligations outside Mercury:** business insurance, tax prep, the California LLC tax, the three failed ClckPay/SDCCPM payments ($3,930.78; confirm nothing is owed), prepaid bookings and card balances.
+5. **Subtenant:** the sublease document, the landlord's consent, and the end date.
+6. **Transfers:** the Peerspace host account is a shared login, so swap its email and payout to Pat (reviews stay with it). Then hand over the Google Business Profile, phone numbers, Peerspace host account, Instagram (renamed, not new), ShareGrid if wanted, Google Ads, Bookabl, Innago, domain and redirect, booking-system license, and the forward from amigostudiosoceanside.com to the new brand.
+7. **Paperwork:** check the operating agreement's buyout terms, then do the purchase agreement and the lease documents together. Get short written confirmations from Jeremiah and Beau that they hold no interest in the current business.
 
 
 ---
