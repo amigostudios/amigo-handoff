@@ -84,3 +84,7 @@ textarea::placeholder,input::placeholder{color:#c4b29b}
   .ho-pill{left:14px;right:14px;justify-content:space-between;border-radius:12px}
   main{padding-bottom:90px}
 }
+
+.ho-card{position:relative}
+.ho-x{position:absolute;top:10px;right:12px;border:0;background:none;font-size:26px;line-height:1;color:#7a6a5c;cursor:pointer;padding:4px 8px}
+.ho-x:hover{color:#2b2420}

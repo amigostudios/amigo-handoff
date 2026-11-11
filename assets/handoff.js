@@ -128,10 +128,11 @@
     Object.keys(vals).forEach(function (k) { var m = vals[k]; if (m.by && m.by !== 'seed' && (!best || m.t > best.t)) best = m; });
     return best ? 'Last edit: ' + best.by + ', ' + when(best.t) : 'Up to date';
   }
+  var nameSkipped = false;
   function askName(cb) {
-    if (ls(LS_NAME)) return cb && cb();
+    if (ls(LS_NAME) || nameSkipped) return cb && cb();
     if ($('.ho-modal')) return;
-    var m = el('div', 'ho-modal', '<form class="ho-card"><div class="kicker">Before you edit</div><h3>Who’s editing?</h3>' +
+    var m = el('div', 'ho-modal', '<form class="ho-card"><button type="button" class="ho-x" aria-label="Close">×</button><div class="kicker">Before you edit</div><h3>Who’s editing?</h3>' +
       '<p>Your name is saved next to what you change, so everyone can see who did what.</p>' +
       '<input name="n" autocomplete="name" placeholder="Your name" required maxlength="40">' +
       '<div class="ho-quick"><button type="button">Austin</button><button type="button">Pat</button></div>' +
@@ -139,10 +140,15 @@
     document.body.appendChild(m);
     var f = $('form', m), inp = $('input', m);
     $$('.ho-quick button', m).forEach(function (b) { b.onclick = function () { inp.value = b.textContent; f.requestSubmit ? f.requestSubmit() : f.onsubmit(); }; });
+    function skip() { nameSkipped = true; m.remove(); document.removeEventListener('keydown', onKey); if (Object.keys(pending).length) schedule(0); }
+    function onKey(e) { if (e.key === 'Escape') skip(); }
+    document.addEventListener('keydown', onKey);
+    $('.ho-x', m).onclick = skip;
+    m.addEventListener('mousedown', function (e) { if (e.target === m) skip(); });
     f.onsubmit = function (e) {
       if (e) e.preventDefault();
       var n = inp.value.trim(); if (!n) return;
-      ls(LS_NAME, n); m.remove(); status('Saving…', 'busy'); cb && cb(); schedule(0);
+      ls(LS_NAME, n); m.remove(); document.removeEventListener('keydown', onKey); status('Saving…', 'busy'); cb && cb(); schedule(0);
     };
     setTimeout(function () { inp.focus(); }, 30);
   }
@@ -164,7 +170,7 @@
   function flush() {
     var keys = Object.keys(pending);
     if (!keys.length || saving) return;
-    var name = ls(LS_NAME);
+    var name = ls(LS_NAME) || (nameSkipped ? 'Someone' : '');
     if (!name) return askName();
     saving = true; status('Saving…', 'busy');
     var batch = keys.map(function (k) { return { key: k, value: pending[k] }; });
@@ -187,7 +193,7 @@
   function change(key, value) {
     if (!online) return;
     pending[key] = value; status('Editing…', 'busy');
-    if (!ls(LS_NAME)) return askName();
+    if (!ls(LS_NAME) && !nameSkipped) return askName();
     schedule();
   }
 
@@ -203,7 +209,7 @@
       } else {
         f.addEventListener('input', function () { grow(f); change(f.dataset.key, f.value); });
         f.addEventListener('blur', function () { if (f.dataset.key in pending) schedule(0); });
-        f.addEventListener('focus', function () { if (online && !ls(LS_NAME)) askName(); });
+        f.addEventListener('focus', function () { if (online && !ls(LS_NAME) && !nameSkipped) askName(); });
         if (f.tagName === 'TEXTAREA') f.addEventListener('keydown', function (e) { if (e.key === 'Enter' && f.classList.contains('one')) { e.preventDefault(); f.blur(); } });
       }
     });
