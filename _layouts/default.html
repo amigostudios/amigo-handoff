@@ -23,7 +23,8 @@ footer{color:var(--muted);font-size:13px;margin-top:40px}
 li.task{list-style:none;margin-left:-1.2em}
 .box{display:inline-block;width:1.4em;color:var(--clay);font-size:1.1em}
 .box.done{color:#3c7a3c}
-</style></head>
+</style>
+{% if page.url == '/' %}{% assign r = '' %}{% else %}{% assign r = '../' %}{% endif %}{% if page.fillable %}<link rel="stylesheet" href="{{ r }}assets/handoff.css?v=1">{% endif %}</head>
 <body><main>
 <div class="kicker">Amigo Studios · Oceanside · hand off</div>
 {{ content }}
@@ -37,4 +38,5 @@ document.querySelectorAll('li').forEach(function(li){
   li.insertBefore(b,li.firstChild); li.classList.add('task');
 });
 </script>
+{% if page.fillable %}<script src="{{ r }}assets/handoff.js?v=1"></script>{% endif %}
 </body></html>

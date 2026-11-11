@@ -1,20 +1,34 @@
 ---
 title: Amigo Studios hand off
+fillable: true
 ---
 
 # Amigo Studios Hand Off
 
-**Hand off:** Jan 15, 2027 (proposed) · **Lease ends:** May 31, 2027 · **Status:** working it out
+<div class="ho-glance">
+<div class="kicker">At a glance</div>
+<dl>
+<div class="row"><dt>Hand off date</dt><dd><textarea class="one" rows="1" data-key="glance.handoff" placeholder="—" aria-label="Hand off date"></textarea></dd></div>
+<div class="row"><dt>Lease ends</dt><dd><textarea class="one" rows="1" data-key="glance.lease" placeholder="—" aria-label="Lease ends"></textarea></dd></div>
+<div class="row"><dt>Landlord agrees to renew lease to Pat</dt><dd><textarea class="one" rows="1" data-key="glance.landlord" placeholder="—" aria-label="Landlord agrees to renew lease to Pat"></textarea></dd></div>
+<div class="row"><dt>New partners</dt><dd><textarea class="one" rows="1" data-key="glance.partners" placeholder="—" aria-label="New partners"></textarea></dd></div>
+<div class="row"><dt>Price agreed</dt><dd><textarea class="one" rows="1" data-key="glance.price" placeholder="—" aria-label="Price agreed"></textarea></dd></div>
+<div class="row"><dt>Buyer / seller agreement signed</dt><dd><textarea class="one" rows="1" data-key="glance.signed" placeholder="—" aria-label="Buyer / seller agreement signed"></textarea></dd></div>
+<div class="row"><dt>Amigo branding removed</dt><dd><textarea class="one" rows="1" data-key="glance.branding" placeholder="—" aria-label="Amigo branding removed"></textarea></dd></div>
+<div class="row"><dt>Accounts transferred</dt><dd><textarea class="one" rows="1" data-key="glance.accounts" placeholder="—" aria-label="Accounts transferred"></textarea></dd></div>
+</dl>
+</div>
 
 **[Our agreement →](agreement/)** where we each put our suggested terms &nbsp;·&nbsp; [Valuation & numbers](valuation/) ([PDF](files/amigo-studios-valuation.pdf))
 
-This page is the plan to read. Anything we fill in or tick off lives in Paper: [Hand Off Checklist](https://www.dropbox.com/cloud_docs/view/od9mOg64rsbSXsUvsiBIG?fileid_gid=lZwPI34jXkAAAAAAAAlU0g) · [main Paper doc](https://www.dropbox.com/cloud_docs/view/QrkvPT1p0sUTvUveXHUtL?fileid_gid=lZwPI34jXkAAAAAAAAlU0A).
+Anything in a box or a checkbox on these pages can be filled in right here. It saves on its own and everyone sees the latest.
 
 ## Who's involved
 
-- **Austin Faure**: current owner (75%), stepping out
-- **Pat Lang**: new owner
-- **New partners**: names go in the [main Paper doc](https://www.dropbox.com/cloud_docs/view/QrkvPT1p0sUTvUveXHUtL?fileid_gid=lZwPI34jXkAAAAAAAAlU0A)
+<table id="ho-people">
+<thead><tr><th>Name</th><th>Role</th><th>Share after hand off</th><th>Contact</th></tr></thead>
+<tbody></tbody>
+</table>
 
 ## Timeline (tentative)
 
@@ -27,9 +41,9 @@ This page is the plan to read. Anything we fill in or tick off lives in Paper: [
 
 ## To-do
 
-The checklist lives in Paper so we can tick things off and add our own:
+Tick things off, fill in who's doing it and by when, and add your own items.
 
-### [Open the Hand Off Checklist →](https://www.dropbox.com/cloud_docs/view/od9mOg64rsbSXsUvsiBIG?fileid_gid=lZwPI34jXkAAAAAAAAlU0g)
+<div id="ho-checklist"></div>
 
 ## What's included
 
