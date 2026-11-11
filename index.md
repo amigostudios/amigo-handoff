@@ -8,4 +8,5 @@ Working documents for the Amigo Studios transition. Each page is live and editab
 
 | Document | Page | PDF |
 |---|---|---|
+| Our agreement (both of us fill this in) | [Open](agreement/) | — |
 | Valuation and handover notes (for Austin and Pat) | [Open](valuation/) | [PDF](files/amigo-studios-valuation.pdf) |

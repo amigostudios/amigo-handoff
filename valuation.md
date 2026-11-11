@@ -48,7 +48,7 @@ To check together: whether the two tube lights belong to the studio or to Pat's 
 
 **Build-out** (stays with the space): slatted wood divider and shelves, reclaimed-wood wall panels, kitchenette, pendants, closet shelving. About **$17.3k** to replace new. It's only worth something while there's a lease to use it under: roughly $1.9k for the ~6.5 months left on the current term, up to ~$8.6k if a new multi-year lease is signed.
 
-**Systems, listings and reviews:** the website and booking system (custom booking, Stripe, GoHighLevel, Supabase), the Google Business Profile and its reviews, the Peerspace listing (5.0, 9 reviews; transfer to be confirmed with Peerspace), Bookabl, the Google Ads account, both phone numbers, and the Innago account. Since the studio is being rebranded, the **Amigo name stays with Austin**, with a transition period while the new brand goes live. The domain can redirect to the new site so search traffic carries over. The booking-system code is offered under a permanent license for the studio's use. Ownership of the code and the details are to agree.
+**Systems, listings and reviews:** the website and booking system (custom booking, Stripe, GoHighLevel, Supabase), the Google Business Profile and its reviews, the Peerspace listing (5.0, 9 reviews; transfer to be confirmed with Peerspace), Bookabl, the Google Ads account, both phone numbers, and the Innago account. Since the studio is being rebranded, **the Amigo name isn't used after hand off**, and amigostudiosoceanside.com forwards to the new brand so search traffic carries over. The booking-system code is offered under a permanent license for the studio's use. Ownership of the code and the details are to agree.
 
 **Subtenant:** $1,046/mo through Innago (about 18% of current studio revenue, covering about 27% of the rent). They're staying. The landlord's consent to the sublease should be written into the new lease.
 
@@ -105,7 +105,7 @@ The $3,691 security deposit isn't in these figures; it's settled separately with
 4. **Equipment walk-through:** confirm what stays, what belongs to Pat, and what isn't needed. Get real used prices on the larger lights if they matter.
 5. **Costs and obligations outside Mercury:** business insurance, tax prep, the California LLC tax, the three failed ClckPay/SDCCPM payments ($3,930.78; confirm nothing is owed), prepaid bookings and card balances.
 6. **Subtenant:** the sublease document, the landlord's consent, the end date, and any subtenant deposit.
-7. **Transfers:** Google Business Profile, phone numbers, Peerspace host account, Google Ads, Bookabl, Innago, domain and redirect, booking-system license, and the transition-period use of the Amigo name.
+7. **Transfers:** Google Business Profile, phone numbers, Peerspace host account, Google Ads, Bookabl, Innago, domain and redirect, booking-system license, and the forward from amigostudiosoceanside.com to the new brand.
 8. **Paperwork:** check the operating agreement's buyout terms, then do the purchase agreement and the lease documents together. Get short written confirmations from Jeremiah and Beau that they hold no interest in the current business.
 
 
