@@ -94,7 +94,7 @@ Suggested (Austin, delete what doesn't fit):
 
 ## What's included
 
-Everything below stays with the studio.
+Everything below stays with the studio, **plus all the other small studio stuff not listed** (cables, supplies, props, etc.).
 
 Pat already owns the podcast cameras, mics, Rodecaster and switcher — not listed.
 
@@ -163,6 +163,7 @@ Pat already owns the podcast cameras, mics, Rodecaster and switcher — not list
 - hazer
 - green screens
 - neon sign
+- iPad
 
 **Decor**
 
@@ -176,6 +177,8 @@ Pat already owns the podcast cameras, mics, Rodecaster and switcher — not list
 - pendant lights
 
 ## Austin's equipment (Not included in the sale)
+
+Also not included: Austin's other personal stuff that isn't listed. **Simple rule:** anything Austin hasn't taken out by hand off day stays with the studio.
 
 **Camera gear**
 
