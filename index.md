@@ -66,6 +66,8 @@ How the studio rebrands is up to Pat and the new partners. All that matters: **A
 
 - [ ] ShareGrid — ownership transfer — Who: \_\_\_ · By: \_\_\_
 - [ ] Peerspace: rebrand listing + transfer host account — Who: \_\_\_ · By: \_\_\_
+- [ ] amigostudios.media domain + website — Who: \_\_\_ · By: \_\_\_
+- [ ] hello@amigostudios.media and other @amigostudios.media emails (Google account; Google Ads and booking emails use it) — Who: \_\_\_ · By: \_\_\_
 - [ ] Google Ads: transfer account to Pat — Who: \_\_\_ · By: \_\_\_
 - [ ] Stripe: hand off the account to Pat (or Pat opens his own) — Who: \_\_\_ · By: \_\_\_
 - [ ] Stripe: switch the website's booking checkout to Pat's Stripe, then test one booking — Who: \_\_\_ · By: \_\_\_
