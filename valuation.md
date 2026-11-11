@@ -48,7 +48,7 @@ Mercury history starts **March 4, 2026**, so we have 8 months to work from and n
 
 To check together: whether the two tube lights belong to the studio or to Pat's rig, and which photo/cyc gear (strobes, hazer, floppies, green screens) the podcast-focused studio actually wants to keep.
 
-**Build-out** (stays with the space): the cyc wall, front-room dividers, the upstairs podcast-studio wall, soundproofing, the custom downstairs office, plus the slatted divider and shelves, wall panels, kitchenette and pendants. It cost **about $60k**. It's attached to the building, and under a standard lease it belongs to the landlord when the lease ends, so it has no resale value. What it's worth is the **right to keep using it**, which lasts only as long as a lease. Walls and soundproofing last far longer than a lease (assume ~15 years, so about $4k a year of use). That's ~$2.2k for the 6.5 months left on the current term. After May 2027 the space and its build-out are the landlord's, and the renewal is what lets the studio keep using them. The figures below split the renewal-term value evenly between seller and buyer: **~$8k with a ~3-year renewal, ~$12k with a new ~5-year lease**, and $0 without a landlord deal.
+**Build-out** (stays with the space): the cyc wall, front-room dividers, the upstairs podcast-studio wall, soundproofing, the custom downstairs office, plus the slatted divider and shelves, wall panels, kitchenette and pendants. It cost **about $60k**. It's attached to the building, and under a standard lease it belongs to the landlord when the lease ends, so it has no resale value. What it's worth is the **right to keep using it**, which lasts only as long as a lease. Walls and soundproofing last far longer than a lease (assume ~15 years, so about $4k a year of use). That's ~$2.2k for the 6.5 months left on the current term. After May 2027 the space and its build-out are the landlord's, and the renewal is what lets the studio keep using them. The value section splits the renewal-term use evenly between seller and buyer: **~$7k for a ~2–3-year renewal, ~$10k for ~4 years, ~$12k for 5 years**.
 
 **Systems:** the website and booking system (custom booking, Stripe, GoHighLevel, Supabase), Bookabl, the Google Ads account, both phone numbers, and the Innago account. Since the studio is being rebranded, **the Amigo name isn't used after hand off**, and amigostudiosoceanside.com forwards to the new brand so search traffic carries over. The booking-system code is offered under a permanent license for the studio's use. Ownership of the code and the details are to agree.
 
@@ -74,28 +74,34 @@ Renaming a listing or handle on the same account keeps its reviews and followers
 - **Rent:** $3,691/mo base + ~$65 CAM + ~$62 insurance = **$3,818/mo all-in** (≈ $2.18/sq ft). That's roughly in line with asking rents on the S Coast Hwy corridor.
 - **Ends May 31, 2027.** There's no renewal option or rate in the lease, so a renewal has to be negotiated. Past increases have been about 4% a year. A 4% renewal would add about $150/mo; a market-rate renewal (~$2.40/sq ft) about $380/mo.
 - **Who's on it:** three individuals, **Jeremiah Idema, Austin Faure and Beau Trembly**, jointly. Jeremiah and Beau are past partners who moved out of state around late 2024 and have no stake in the current business. **The current LLC isn't named on the lease.**
-- **What that means:** the space can't move with the LLC by itself. The handover needs a **landlord-approved new lease (or assignment and amendment) to Pat's entity, combined with the renewal past May 2027, that releases Austin, Jeremiah and Beau.** The 2024 First Amendment did exactly this when it released Brandon Gleed, so there's a template. The landlord will likely ask for the new tenant's financials and possibly a guarantee.
+- **What that means:** the space can't move with the LLC by itself. The handover needs a **landlord-approved new lease (or assignment and amendment) to the buyers' entity (Pat and/or his team), combined with the renewal past May 2027, that releases Austin, Jeremiah and Beau.** The 2024 First Amendment did exactly this when it released Brandon Gleed, so there's a template. The landlord will likely ask for the new tenant's financials and possibly a guarantee.
 
 ---
 
-## 4. Value range
+## 4. Value
 
-Three methods, side by side (whole business):
+**Expected price for Austin's 75%: ~$26k**
 
-| Method | Low | Middle | High | What it says |
-|---|---:|---:|---:|---|
-| **Assets** (equipment + build-out) | $8k | $21.5k | $30k | Main anchor. Low = gear at quick-sale value, no lease; middle = gear at used value + build-out on a ~3-year renewal; high = gear in use + build-out on a new ~5-year lease |
-| **Earnings** (multiple of profit before owner pay) | $0 | $0 | $0 | At the Jun–Oct run-rate there's no profit to multiply. If spring-level bookings return without full-time owner hours, this method could add ~$26–35k |
-| **Cost to set up from scratch** | — | — | $113–150k | Gear, build-out, months of rent while setting up, website and booking system. This is a ceiling, not a price |
-| **Listings & reputation** | $0 | ~$5k | ~$10k | Bookings a new zero-review listing would lose in its first 1–2 years (Peerspace ~$4–8k, Instagram ~$1–1.5k). Low is $0 because without the lease there's no listing to keep |
-| Small bonus for an open, booking studio | $0 | ~$1.5k | ~$3k | Subtenant in place, phone numbers, working booking system |
+The whole studio is worth ~$35k. Pat already owns 25%, so Pat and/or his new partners buy the other 75% (75% × $35k ≈ $26k). Depending on lease length and bookings, the price for the 75% could land between ~$20k and ~$45k.
 
-| | Low | Middle | High |
-|---|---:|---:|---:|
-| **Whole business** | **~$8k** | **~$28k** | **~$43k** |
-| **75% interest** | **~$6k** | **~$21k** | **~$32k** |
+**How the ~$35k studio value adds up** (renewal of ~3–5 years, studio kept running):
 
-The 75% is a straight share of the whole. Because the 75% being sold is the controlling stake and the buyer already owns the rest, no minority discount applies. Cash in the bank and any liabilities (card balances, prepaid bookings, taxes) are settled separately at closing. Possible upside: if bookings recover to near spring levels, the whole business could support roughly $56–65k (that's the earnings method adding ~$26–35k on top of the high-case assets; the reputation is part of what produces those earnings, so it isn't added again). The Google profile (5.0, 27 reviews) isn't counted in these figures yet; it may add a few thousand.
+| Piece | Value | Basis |
+|---|---:|---|
+| Gear and furniture, in use | $17.8k | Movable equipment and furniture, valued as set up in a working studio (Pat's rig excluded) |
+| Build-out use | $10.2k | ~$2.2k to May 2027 + half of ~4 years × ~$4k a year of use on the ~$60k build-out |
+| Listings & reputation | $5.0k | Peerspace ~$4k + Instagram ~$1k: bookings a zero-review start would lose in its first 1–2 years |
+| Open, booking studio | $1.5k | Subtenant in place, phone numbers, working booking system |
+| **Whole studio** | **$34.5k ≈ $35k** | |
+| **Austin's 75% (× 75%) = the price** | **$25.9k ≈ $26k** | |
+
+**What moves it within the range:**
+- **Shorter renewal (~2–3 years) → ~$20k for the 75%** (whole studio ~$26k): gear at used value ($13.3k), build-out use $7.2k, listings $4k, bonus $1.5k.
+- **5-year lease and spring-level bookings returning → ~$42–49k for the 75%** (whole studio ~$56–65k): gear $17.8k + build-out $12.2k + about $26–35k for earnings. At today's run-rate the studio makes no profit before anyone is paid, so **earnings add nothing to the expected value**; they only count if bookings recover.
+
+**Cost to recreate: ~$113–150k.** What Pat and/or his team avoid by buying instead of building from scratch (gear, the ~$60k build-out, rent during setup, website and booking system). It's a setup cost, not a price.
+
+No minority discount applies: the 75% sells as one controlling block, and with Pat's 25% the buyers end up owning 100%. Cash and liabilities (card balances, prepaid bookings, taxes) are settled separately at closing. The Google profile (5.0, 27 reviews) isn't counted yet and may add a few thousand.
 
 <div class="price"><strong>Proposed price:</strong> ______________________</div>
 
@@ -103,22 +109,22 @@ The 75% is a straight share of the whole. Because the 75% being sold is the cont
 
 ## 5. Deal-structure options
 
-- **Purchase of the 75% interest, or an asset purchase by Pat's entity.** Either works. Since the LLC isn't on the lease, an asset purchase into Pat's entity plus a new lease directly with the landlord may be the simpler route. Worth a quick check with a lawyer and CPA.
+- **Purchase of the 75% interest, or an asset purchase by the buyers' entity** (Pat and/or his team). Either works. Since the LLC isn't on the lease, an asset purchase into that entity plus a new lease directly with the landlord may be the simpler route. Worth a quick check with a lawyer and CPA.
 - **Cash at closing.** The simplest option.
 - **Seller note.** Part paid at closing, the rest over 12–18 months with interest, secured by the equipment. Typically starts once the new lease is signed.
-- **Earn-out tied to studio revenue.** For example, a share of studio revenue above the Jun–Oct baseline (~$5.7k/mo) for 12 months, capped. It's easy to measure from Stripe, Peerspace and the bank. Monthly reporting keeps it simple.
-- **Referral fee.** If Austin keeps referring work to the studio, a simple agreement such as a percentage of fees on referred jobs, kept separate from the purchase price.
+- **Earn-out tied to studio revenue.** For example, a share of studio revenue above the Jun–Oct baseline (~$5.7k/mo) for 12 months, capped, measured from Stripe, Peerspace and the bank.
+- **Referral fee.** If Austin keeps referring work, a percentage of fees on referred jobs, separate from the price.
 
 ---
 
 ## 6. Next steps and open items
 
-1. **Landlord conversation:** a new lease or assignment to Pat's entity past May 31, 2027, at what rent and term, releasing Austin, Jeremiah and Beau. Everything else depends on this.
+1. **Landlord conversation:** a new lease or assignment to the buyers' entity past May 31, 2027, at what rent and term, releasing Austin, Jeremiah and Beau. The renewal is expected; this is the paperwork, and its length sets the build-out figure.
 2. **Revenue history:** prior-year Stripe and Peerspace data (Nov 2025 – Feb 2026 and spring 2025), a Stripe breakdown of rental vs services, and the full November 2026 numbers.
 3. **Equipment walk-through:** confirm what stays, what belongs to Pat, and what isn't needed. Get real used prices on the larger lights if they matter.
 4. **Costs and obligations outside Mercury:** business insurance, tax prep, the California LLC tax, the three failed ClckPay/SDCCPM payments ($3,930.78; confirm nothing is owed), prepaid bookings and card balances.
 5. **Subtenant:** the sublease document, the landlord's consent, and the end date.
-6. **Transfers:** the Peerspace host account is a shared login, so swap its email and payout to Pat (reviews stay with it). Then hand over the Google Business Profile, phone numbers, Peerspace host account, Instagram (renamed, not new), ShareGrid if wanted, Google Ads, Bookabl, Innago, domain and redirect, booking-system license, and the forward from amigostudiosoceanside.com to the new brand.
+6. **Transfers:** the Peerspace host account is a shared login, so swap its email and payout to the buyers (reviews stay with it). Then hand over the Google Business Profile, phone numbers, Peerspace host account, Instagram (renamed, not new), ShareGrid if wanted, Google Ads, Bookabl, Innago, domain and redirect, booking-system license, and the forward from amigostudiosoceanside.com to the new brand.
 7. **Paperwork:** check the operating agreement's buyout terms, then do the purchase agreement and the lease documents together. Get short written confirmations from Jeremiah and Beau that they hold no interest in the current business.
 
 
