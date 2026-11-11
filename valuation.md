@@ -50,7 +50,19 @@ To check together: whether the two tube lights belong to the studio or to Pat's 
 
 **Build-out** (stays with the space): slatted wood divider and shelves, reclaimed-wood wall panels, kitchenette, pendants, closet shelving. About **$17.3k** to replace new. It's only worth something while there's a lease to use it under: roughly $1.9k for the ~6.5 months left on the current term, up to ~$8.6k if a new multi-year lease is signed.
 
-**Systems, listings and reviews:** the website and booking system (custom booking, Stripe, GoHighLevel, Supabase), the Google Business Profile and its reviews, the Peerspace listing (5.0, 9 reviews; transfer to be confirmed with Peerspace), Bookabl, the Google Ads account, both phone numbers, and the Innago account. Since the studio is being rebranded, **the Amigo name isn't used after hand off**, and amigostudiosoceanside.com forwards to the new brand so search traffic carries over. The booking-system code is offered under a permanent license for the studio's use. Ownership of the code and the details are to agree.
+**Systems:** the website and booking system (custom booking, Stripe, GoHighLevel, Supabase), Bookabl, the Google Ads account, both phone numbers, and the Innago account. Since the studio is being rebranded, **the Amigo name isn't used after hand off**, and amigostudiosoceanside.com forwards to the new brand so search traffic carries over. The booking-system code is offered under a permanent license for the studio's use. Ownership of the code and the details are to agree.
+
+**Listings & reputation** (built up over about 5 years, included and rebranded):
+
+| Listing | Rating |
+|---|---|
+| Peerspace, photo/video studio | 5.0, 86 reviews, Power Host |
+| Peerspace, podcast studio | 5.0, 9 reviews, Power Host |
+| ShareGrid (gear rentals and sales; Austin's personal profile) | 94 reviews, 100% positive |
+| Instagram @amigostudiosoceanside | ~6.6K followers |
+| Google Business Profile | rating and review count to be added |
+
+Renaming a listing or handle on the same account keeps its reviews and followers. A new account starts at zero. So their value depends on handing over the accounts themselves, through each platform's own process. Peerspace brings in about $8.5–10.7k a year from ~2 bookings a month, and at that pace rebuilding 95 reviews would take 4–5 years. The value below is what a new zero-review listing would likely lose in bookings over its first one to two years. ShareGrid covers gear rental rather than studio bookings, and no ShareGrid income runs through the studio account, so it's valued at little or nothing unless the gear-rental side continues. A "formerly Amigo Studios" line on the listings for a few months keeps the older reviews credible.
 
 **Subtenant:** $1,046/mo through Innago (about 18% of current studio revenue, covering about 27% of the rent). They're staying. The landlord's consent to the sublease should be written into the new lease.
 
@@ -76,14 +88,15 @@ Three methods, side by side (whole business):
 | **Assets** (equipment + build-out, deposit excluded) | $8k | $15k | $26k | Main anchor. Low = quick sale with no lease; middle = used value with the lease moved over; high = in-use value with a new multi-year lease |
 | **Earnings** (multiple of profit before owner pay) | $0 | $0 | $0 | At the Jun–Oct run-rate there's no profit to multiply. If spring-level bookings return without full-time owner hours, this method could add ~$24–32k |
 | **Cost to set up from scratch** | — | — | $70–100k | Gear, build-out, months of rent while setting up, website and booking system. This is a ceiling, not a price |
-| Small bonus for an open, booking studio | $0 | ~$3k | ~$6k | Subtenant in place, reviews, phone numbers, working booking system |
+| **Listings & reputation** | $0 | ~$5k | ~$10k | Bookings a new zero-review listing would lose in its first 1–2 years (Peerspace ~$4–8k, Instagram ~$1–1.5k). Low is $0 because without the lease there's no listing to keep |
+| Small bonus for an open, booking studio | $0 | ~$1.5k | ~$3k | Subtenant in place, phone numbers, working booking system |
 
 | | Low | Middle | High |
 |---|---:|---:|---:|
-| **Whole business** | **~$8k** | **~$18k** | **~$32k** |
-| **75% interest** | **~$6k** | **~$14k** | **~$24k** |
+| **Whole business** | **~$8k** | **~$22k** | **~$39k** |
+| **75% interest** | **~$6k** | **~$16k** | **~$30k** |
 
-The $3,691 security deposit isn't in these figures; it's settled separately with whoever funded it. The 75% is a straight share of the whole. Because the 75% being sold is the controlling stake and the buyer already owns the rest, no minority discount applies. Cash in the bank and any liabilities (card balances, prepaid bookings, taxes) are settled separately at closing. Possible upside: if bookings recover to near spring levels, the whole business could support roughly $50–58k (that's the earnings method adding ~$24–32k on top of the high-case assets).
+The $3,691 security deposit isn't in these figures; it's settled separately with whoever funded it. The 75% is a straight share of the whole. Because the 75% being sold is the controlling stake and the buyer already owns the rest, no minority discount applies. Cash in the bank and any liabilities (card balances, prepaid bookings, taxes) are settled separately at closing. Possible upside: if bookings recover to near spring levels, the whole business could support roughly $50–58k (that's the earnings method adding ~$24–32k on top of the high-case assets; the reputation is part of what produces those earnings, so it isn't added again). The Google profile isn't counted yet; once its rating is in, it may add a few thousand.
 
 <div class="price"><strong>Proposed price:</strong> ______________________</div>
 
@@ -107,7 +120,7 @@ The $3,691 security deposit isn't in these figures; it's settled separately with
 4. **Equipment walk-through:** confirm what stays, what belongs to Pat, and what isn't needed. Get real used prices on the larger lights if they matter.
 5. **Costs and obligations outside Mercury:** business insurance, tax prep, the California LLC tax, the three failed ClckPay/SDCCPM payments ($3,930.78; confirm nothing is owed), prepaid bookings and card balances.
 6. **Subtenant:** the sublease document, the landlord's consent, the end date, and any subtenant deposit.
-7. **Transfers:** Google Business Profile, phone numbers, Peerspace host account, Google Ads, Bookabl, Innago, domain and redirect, booking-system license, and the forward from amigostudiosoceanside.com to the new brand.
+7. **Transfers:** confirm with Peerspace whose host account the listings sit under (the podcast listing shows "Michael B.") and that it can move to Pat's entity with the reviews; capture the Google rating. Then hand over the Google Business Profile, phone numbers, Peerspace host account, Instagram (renamed, not new), ShareGrid if wanted, Google Ads, Bookabl, Innago, domain and redirect, booking-system license, and the forward from amigostudiosoceanside.com to the new brand.
 8. **Paperwork:** check the operating agreement's buyout terms, then do the purchase agreement and the lease documents together. Get short written confirmations from Jeremiah and Beau that they hold no interest in the current business.
 
 

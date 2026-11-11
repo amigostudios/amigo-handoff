@@ -129,6 +129,18 @@ Pat already owns the podcast cameras, mics, Rodecaster and switcher — not list
 - custom wall panels
 - pendant lights
 
+### Listings & reputation (built up over about 5 years)
+
+Included with the sale and rebranded. Keep the same accounts so the reviews carry over.
+
+| Listing | Rating |
+|---|---|
+| [Peerspace, photo/video studio](https://host.peerspace.com/amigostudios) | 5.0, 86 reviews, Power Host |
+| [Peerspace, podcast studio](https://host.peerspace.com/amigostudiospodcast) | 5.0, 9 reviews, Power Host |
+| [ShareGrid](https://www.sharegrid.com/p/austin_faure) | 94 reviews, 100% positive |
+| Instagram @amigostudiosoceanside | ~6.6K followers |
+| Google Business Profile | to be added |
+
 ## Austin's equipment (Not included in the sale)
 
 Also not included: Austin's other personal stuff that isn't listed. **Simple rule:** anything Austin hasn't taken out by hand off day stays with the studio.
