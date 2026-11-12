@@ -15,21 +15,20 @@ This is a working fact base for the two of us. It isn't an appraisal, and it isn
 
 ## 1. Where the studio stands
 
-Mercury history starts **March 4, 2026**, so we have 8 months to work from and no prior-year history. That means seasonality can't be judged yet. Studio figures below cover studio rental only.
+Mercury history starts **March 4, 2026**, so we have 8 months to work from and no prior-year history, which means seasonality can't be judged yet. Figures include podcast services (done-for-you podcast work for clients), which the studio runs alongside room rentals.
 
-| Per month (average) | **Before** (Mar 4–Jul 16) | **After** (Jul 17–Oct 31) |
-|---|---:|---:|
-| Stripe (net of fees) | $6,778 | $4,352 |
-| Peerspace | $993 | $515 |
-| Subtenant ($1,046/mo, used for both periods since it continues) | $1,046 | $1,046 |
-| Other (Swimply etc.) | $117 | $10 |
-| **Studio revenue** | **$8,934** | **$5,923** |
-| Running costs | ~$6,755 | ~$6,162 |
-| **Monthly result, before paying anyone to run it** | **≈ +$2,180** | **≈ –$240** |
+| Per month (average) | **Spring** (Mar 4–May 31) | **Jun 1–Jul 16** | **After Jul 17** (to Oct 31) |
+|---|---:|---:|---:|
+| Room rentals (Stripe, Peerspace, other) | $9,828 | $4,135 | $4,877 |
+| Subtenant ($1,046/mo, used throughout since it continues) | $1,046 | $1,046 | $1,046 |
+| Podcast services | $923 | $1,919 | $3,499 |
+| **Total revenue** | **$11,797** | **$7,100** | **$9,422** |
+| Running costs (incl. podcast-services crew) | ~$6,762 | ~$6,736 | ~$7,200 |
+| **Monthly result, before paying anyone to run it** | **≈ +$5,035** | **≈ +$364** | **≈ +$2,222** |
 
-**Running costs (after Jul 17, per month):** rent + CAM + insurance $3,818 · utilities ~$1,000 · studio hosting (Jacob) ~$360 · supplies, software, platform fees, ads and other ~$580 · an estimated ~$250 for costs that don't run through Mercury (business insurance, tax prep, California $800 LLC tax). One-time items (a door repair) and gear purchases are left out, and replaced with a small gear allowance (~$150/mo). Costs before Jul 17 ran about $600/mo higher, mostly studio hosting and supplies while the studio was busier.
+**Running costs (after Jul 17, per month):** rent + CAM + insurance $3,818 · utilities ~$1,000 · studio hosting (Jacob) ~$360 · supplies, software, platform fees, ads and other ~$580 · podcast-services crew ~$1,040 · ~$250 estimated for costs outside Mercury (insurance, tax prep, California $800 LLC tax). One-time items and gear purchases are left out, replaced with a gear allowance (~$150/mo).
 
-**What changed around July 17:** Austin went from about 20 hours a week to about 1 hour a week. Average studio revenue was about 34% lower after (Stripe about 36%). Costs are mostly fixed, so the monthly result went from about +$2.2k to about –$0.2k. Bookings had already started slipping in June, so not all of the drop is the step-back. The before result included those ~20 unpaid owner hours a week; covering them with a part-time manager would cost roughly $29k/yr (estimate).
+**What changed:** spring was strong, with Austin working about 20 hours a week. June to mid-July was a slow stretch after that strong spring: fewer and smaller room bookings, and several larger spring jobs were one-offs that didn't repeat. Both rooms slowed together. Around **July 17** Austin stepped back to about 1 hour a week. Since then room rentals have run about $4.9k a month and podcast services have grown to about $3.5k a month, so the studio makes about **+$2.2k a month (~$26.7k a year)** before anyone is paid. Most podcast-services work comes from two clients.
 
 **Early November:** Nov 1–10 brought in **$5,161** of studio revenue (Stripe $3,523, Peerspace $1,040, subtenant $598). That's a strong start. A full November, plus prior-year Stripe and Peerspace history, would show whether October was a low point or the new normal.
 
@@ -65,7 +64,7 @@ Pat's tube lights are excluded. The strobes, hazer, floppies and green screens b
 
 Renaming a listing on the same account keeps its reviews. A new account starts at zero. So their value depends on handing over the accounts themselves, through each platform's own process. Peerspace has brought in about $6–12k a year (~$9.6k over Mar–Oct) from ~2 bookings a month, and at that pace rebuilding 95 reviews would take 4–5 years. The value below is what a new zero-review listing would likely lose in bookings over its first one to two years. ShareGrid covers gear rental rather than studio bookings, and no ShareGrid income runs through the studio account, so it's valued at little or nothing unless the gear-rental side continues. A "formerly Amigo Studios" line on the listings for a few months keeps the older reviews credible.
 
-**Subtenant:** $1,046/mo through Innago (about 18% of current studio revenue, covering about 27% of the rent). They're staying. The landlord's consent to the sublease should be written into the new lease.
+**Subtenant:** $1,046/mo through Innago (about 11% of current revenue, covering about 27% of the rent). They're staying. The landlord's consent to the sublease should be written into the new lease.
 
 ---
 
@@ -83,7 +82,7 @@ Renaming a listing on the same account keeps its reviews. A new account starts a
 
 **Expected price for Austin's 75%: ~$34k**
 
-The whole studio is worth ~$45k. Pat already owns 25%, so Pat and/or his new partners buy the other 75% (75% × $45k ≈ $34k). Depending on lease length and bookings, the price for the 75% could land between ~$23k and ~$46k.
+The whole studio is worth ~$45k. Pat already owns 25%, so Pat and/or his new partners buy the other 75% (75% × $45k ≈ $34k). Depending on lease length and bookings, the price for the 75% could land between ~$23k and ~$55k.
 
 **How the ~$45k studio value adds up** (renewal of ~3–5 years, studio kept running):
 
@@ -97,13 +96,15 @@ The whole studio is worth ~$45k. Pat already owns 25%, so Pat and/or his new par
 | **Whole studio** | **$44.8k ≈ $45k** | |
 | **Austin's 75% (× 75%) = the price** | **$33.6k ≈ $34k** | |
 
+**Checked against earnings:** since July 17 the studio makes about $26.7k a year before anyone is paid, nearly all of it from podcast services for two clients. Counting that podcast profit at 60% (it depends on those clients staying) gives ~$15k a year; at a typical 2× multiple that's ~$30k, plus the website ($12k) as a separate asset: **~$42k**, close to the ~$45k above. The price uses the higher of the two, never both added together.
+
 **What moves it within the range:**
 - **Shorter renewal, low-end credits → ~$23k for the 75%** (whole studio ~$31k): gear at used value ($13.1k), build-out use $7.2k (2–3 years), listings $3k, website $6.5k, bonus $1k.
-- **5-year lease, high-end credits → ~$46k for the 75%** (whole studio ~$61k): gear $17.6k + build-out $12.2k + listings $8.5k + website $20.5k + bonus $2k. Earnings would only support this if bookings return to the spring peak (Mar–May). Since July the studio makes no profit before anyone is paid, so **earnings add nothing to the expected value**.
+- **Both podcast-services clients stay → ~$55k for the 75%** (whole studio ~$74k): the full ~$26.7k a year at 2× ($53k) plus the website at the top of its range ($20.5k). An earn-out on podcast-services revenue fits this case best.
 
-**Cost to recreate: ~$155–285k.** What Pat and/or his team avoid by buying instead of building from scratch (gear, the ~$60k build-out, rent during setup, and the $45–150k website and booking system). It's a setup cost, not a price.
+**Cost to recreate: ~$155–285k**, including the ~$60k build-out and the $45–150k website and booking system. That's what the buyers avoid by not building from scratch; it's a setup cost, not a price.
 
-No minority discount: the 75% sells as one controlling block. Cash and liabilities (card balances, prepaid bookings, taxes) are settled separately at closing. The Google profile (5.0, 27 reviews) isn't counted yet.
+No minority discount: the 75% sells as one controlling block. Cash and liabilities (card balances, prepaid bookings, taxes) settle separately at closing.
 
 <div class="price"><strong>Proposed price:</strong> ______________________</div>
 
@@ -112,10 +113,9 @@ No minority discount: the 75% sells as one controlling block. Cash and liabiliti
 ## 5. Deal-structure options
 
 - **Purchase of the 75% interest, or an asset purchase by the buyers' entity** (Pat and/or his team). Either works. Since the LLC isn't on the lease, an asset purchase into that entity plus a new lease directly with the landlord may be the simpler route. Worth a quick check with a lawyer and CPA.
-- **Cash at closing.** The simplest option.
-- **Seller note.** Part paid at closing, the rest over 12–18 months with interest, secured by the equipment. Typically starts once the new lease is signed.
-- **Earn-out tied to studio revenue.** For example, a share of studio revenue above the after-July-17 baseline (~$5.9k/mo) for 12 months, capped, measured from Stripe, Peerspace and the bank.
-- **Referral fee.** If Austin keeps referring work, a percentage of fees on referred jobs, separate from the price.
+- **Cash at closing** (simplest), or a **seller note:** part at closing, the rest over 12–18 months with interest, secured by the equipment, once the new lease is signed.
+- **Earn-out:** a capped share of revenue above the after-July-17 baseline (~$9.4k/mo, rooms plus podcast services) for 12 months, measured from Stripe, Peerspace and the bank.
+- **Referral fee** for new work Austin sends later, separate from the price.
 
 ---
 
@@ -123,11 +123,11 @@ No minority discount: the 75% sells as one controlling block. Cash and liabiliti
 
 1. **Landlord conversation:** a new lease or assignment to the buyers' entity past May 31, 2027, at what rent and term, releasing Austin, Jeremiah and Beau. The renewal is expected; this is the paperwork, and its length sets the build-out figure.
 2. **Revenue history:** prior-year Stripe and Peerspace data, a Stripe split of rental vs services, and the full November 2026 numbers.
-3. **Equipment walk-through:** confirm what stays, what belongs to Pat, and what isn't needed. Get real used prices on the larger lights if they matter.
-4. **Costs and obligations outside Mercury:** business insurance, tax prep, the California LLC tax, the three failed ClckPay/SDCCPM payments ($3,930.78; confirm nothing is owed), prepaid bookings and card balances.
-5. **Subtenant:** the sublease document, the landlord's consent, and the end date.
+3. **Equipment walk-through:** confirm what stays and what belongs to Pat; get real used prices on the larger lights.
+4. **Costs outside Mercury:** insurance, tax prep, the California LLC tax, the three failed ClckPay/SDCCPM payments ($3,930.78; confirm nothing is owed), prepaid bookings, card balances.
+5. **Subtenant and podcast services:** sublease, landlord consent and end date; a handover with each podcast-services client.
 6. **Transfers:** swap the Peerspace shared login's email and payout to the buyers (reviews stay). Then hand over the Google Business Profile, phone numbers, ShareGrid if wanted, Google Ads, Innago, the domain and its redirect to the new brand, and booking-system access with written non-exclusive resale terms.
-7. **Paperwork:** check the operating agreement's buyout terms, then do the purchase agreement and the lease documents together. Get short written confirmations from Jeremiah and Beau that they hold no interest in the current business.
+7. **Paperwork:** check the operating agreement's buyout terms; do the purchase and lease documents together; get written confirmations from Jeremiah and Beau that they hold no interest.
 
 
 ---
