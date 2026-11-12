@@ -19,7 +19,7 @@ fillable: true
 </dl>
 </div>
 
-**[Our agreement →](agreement/)** where we each put our suggested terms &nbsp;·&nbsp; [Valuation & numbers](valuation/) ([PDF](files/amigo-studios-valuation.pdf))
+**[Our agreement →](agreement/)** where we each put our suggested terms &nbsp;·&nbsp; [Valuation](valuation/) ([PDF](files/amigo-studios-valuation.pdf))
 
 Anything in a box or a checkbox on these pages can be filled in right here. It saves on its own and everyone sees the latest.
 
