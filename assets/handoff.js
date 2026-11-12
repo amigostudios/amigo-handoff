@@ -77,6 +77,12 @@
     'people.01.name': 'Austin Faure', 'people.01.role': 'Current owner (75%), stepping out',
     'people.02.name': 'Pat Lang', 'people.02.role': 'New owner',
     'people.03.name': '', 'people.04.name': '', 'people.05.name': '',
+    'tl.01.date': 'ASAP', 'tl.01.text': 'Landlord agrees to renew the lease to Pat',
+    'tl.02.date': 'Nov–Dec 2026', 'tl.02.text': 'Agree terms, accounts list ready',
+    'tl.03.date': 'Jan 1, 2027', 'tl.03.text': 'Buyer / seller agreement signed',
+    'tl.04.date': 'Jan 15, 2027', 'tl.04.text': 'Hand off day: keys, accounts transferred, money',
+    'tl.05.date': 'Feb 1, 2027', 'tl.05.text': 'Amigo branding off everything, website forwarding',
+    'tl.06.date': 'May 31, 2027', 'tl.06.text': 'Current lease ends (new lease signed before this)',
     'ag.date.austin': 'Jan 15, 2027',
     'ag.brand.agreed': 'The new brand is up to Pat and the new partners. All Amigo branding comes off everything once Austin leaves. amigostudiosoceanside.com forwards to the new brand.'
   };
@@ -301,10 +307,35 @@
     tb.innerHTML = ''; list.forEach(function (id) { tb.appendChild(personRow(id)); }); bind(tb);
   }
 
+  /* ---------- timeline ---------- */
+  function tlRow(id) {
+    var p = 'tl.' + id + '.', r = el('div', 'ho-tl-row');
+    r.dataset.id = id;
+    r.innerHTML =
+      '<textarea class="one ho-tl-date" rows="1" data-key="' + p + 'date" placeholder="Date" aria-label="Date"></textarea>' +
+      '<textarea class="one ho-tl-text" rows="1" data-key="' + p + 'text" placeholder="What happens" aria-label="What happens"></textarea>' +
+      '<button type="button" class="ho-x" title="Remove date" aria-label="Remove date">×</button>';
+    var x = $('.ho-x', r);
+    x.onclick = function () {
+      if (!online) return;
+      if (!x.classList.contains('sure')) { x.classList.add('sure'); x.textContent = 'Remove?'; setTimeout(function () { x.classList.remove('sure'); x.textContent = '×'; }, 3000); return; }
+      change(p + 'removed', '1'); r.remove();
+    };
+    return r;
+  }
+  function renderTimeline(box) {
+    var list = ids('tl.', 'text').filter(function (id) { return val('tl.' + id + '.removed') !== '1'; });
+    var have = $$('.ho-tl-row', box).map(function (r) { return r.dataset.id; });
+    if (have.join() === list.join()) { $$('[data-key]', box).forEach(setField); return; }
+    if (box.contains(document.activeElement)) return;
+    box.innerHTML = ''; list.forEach(function (id) { box.appendChild(tlRow(id)); }); bind(box);
+  }
+
   /* ---------- render ---------- */
   function render() {
     $$('.ho-group').forEach(renderGroup);
     var tb = $('#ho-people tbody'); if (tb) renderPeople(tb);
+    var tlb = $('#ho-timeline'); if (tlb) renderTimeline(tlb);
     $$('[data-key]').forEach(setField);
     $$('.ho-add').forEach(function (b) { b.hidden = !online; });
     document.body.classList.toggle('ho-readonly', !online);
@@ -319,6 +350,12 @@
       var add = el('button', 'ho-add', '+ Add person'); add.type = 'button';
       add.onclick = function () { if (!online) return; var id = newId(); var r = personRow(id); $('tbody', pt).appendChild(r); bind(r); $('textarea', r).focus(); change('people.' + id + '.name', ''); };
       pt.parentNode.insertBefore(add, pt.nextSibling);
+    }
+    var tl = $('#ho-timeline');
+    if (tl) {
+      var addT = el('button', 'ho-add', '+ Add date'); addT.type = 'button';
+      addT.onclick = function () { if (!online) return; var id = newId(); var r = tlRow(id); tl.appendChild(r); bind(r); $('textarea', r).focus(); change('tl.' + id + '.text', ''); };
+      tl.parentNode.insertBefore(addT, tl.nextSibling);
     }
     pill = el('div', 'ho-pill', '<span class="ho-pill-msg">Loading…</span><button type="button" class="ho-pill-name" title="Change name"></button>');
     $('.ho-pill-name', pill).onclick = function () { try { localStorage.removeItem(LS_NAME); } catch (e) {} askName(function () { status(lastEditText(), 'ok'); }); };

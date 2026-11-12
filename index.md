@@ -32,12 +32,7 @@ Anything in a box or a checkbox on these pages can be filled in right here. It s
 
 ## Timeline (tentative)
 
-- ASAP: landlord agrees to renew the lease to Pat
-- Nov–Dec 2026: agree terms, accounts list ready
-- **Jan 1, 2027:** buyer / seller agreement signed
-- **Jan 15, 2027:** hand off day: keys, accounts transferred, money
-- **Feb 1, 2027:** Amigo branding off everything, website forwarding
-- **May 31, 2027:** current lease ends (new lease signed before this)
+<div id="ho-timeline"></div>
 
 ## To-do
 
