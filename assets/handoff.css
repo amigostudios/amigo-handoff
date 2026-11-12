@@ -94,5 +94,6 @@ textarea::placeholder,input::placeholder{color:#c4b29b}
 .ho-tl-row{display:grid;grid-template-columns:150px 1fr auto;gap:12px;align-items:start;padding:7px 0;border-bottom:1px solid #f0e6d6}
 .ho-tl-row textarea{border-bottom-color:transparent;padding:2px 0}
 .ho-tl-row textarea:hover{border-bottom-color:#e8dac6}
-.ho-tl-date{font-weight:700}
-@media (max-width:640px){.ho-tl-row{grid-template-columns:1fr auto}.ho-tl-row .ho-x{grid-row:1;grid-column:2}}
+.ho-tl-row textarea{min-width:0}
+.ho-tl-row textarea.ho-tl-date{font-weight:700}
+@media (max-width:640px){.ho-tl-row{grid-template-columns:1fr auto;gap:0 8px}.ho-tl-row .ho-tl-date{grid-row:1;grid-column:1}.ho-tl-row .ho-x{grid-row:1;grid-column:2}.ho-tl-row .ho-tl-text{grid-row:2;grid-column:1/-1}}
