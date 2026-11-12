@@ -80,11 +80,11 @@ Renaming a listing on the same account keeps its reviews. A new account starts a
 
 ## 4. Value
 
-**Expected price for Austin's 75%: ~$34k**
+**Expected price for Austin's 75%: ~$33k**
 
-The whole studio is worth ~$45k. Pat already owns 25%, so Pat and/or his new partners buy the other 75% (75% × $45k ≈ $34k). Depending on lease length and bookings, the price for the 75% could land between ~$23k and ~$55k.
+The whole studio is worth ~$44k. Pat already owns 25%, so Pat and/or his new partners buy the other 75% (75% × $44k ≈ $33k). Depending on lease length and bookings, the price for the 75% could land between ~$23k and ~$55k.
 
-**How the ~$45k studio value adds up** (renewal of ~3–5 years, studio kept running):
+**How the ~$44k studio value adds up** (renewal of ~3–5 years, studio kept running):
 
 | Piece | Value | Basis |
 |---|---:|---|
@@ -92,14 +92,13 @@ The whole studio is worth ~$45k. Pat already owns 25%, so Pat and/or his new par
 | Build-out use | $10.2k | ~$2.2k to May 2027 + half of ~4 years × ~$4k a year of use on the ~$60k build-out |
 | Listings & reputation | $4.0k | Peerspace: bookings a zero-review listing would lose in its first 1–2 years |
 | Website and booking system | $12.0k | $15k credit for the site, booking system and SEO pages, reduced because the booking system is non-exclusive |
-| Open, booking studio | $1.0k | Subtenant in place, phone numbers |
-| **Whole studio** | **$45.2k ≈ $45k** | |
-| **Austin's 75% (× 75%) = the price** | **$33.9k ≈ $34k** | |
+| **Whole studio** | **$44.2k ≈ $44k** | |
+| **Austin's 75% (× 75%) = the price** | **$33.2k ≈ $33k** | |
 
-**Checked against earnings:** since July 17 the studio makes about $26.7k a year before anyone is paid, nearly all of it from podcast services for two clients. Counting that podcast profit at 60% (it depends on those clients staying) gives ~$15k a year; at a typical 2× multiple that's ~$30k, plus the website ($12k) as a separate asset: **~$42k**, close to the ~$45k above. The price uses the higher of the two, never both added together.
+**Checked against earnings:** since July 17 the studio makes about $26.7k a year before anyone is paid, nearly all of it from podcast services for two clients. Counting that podcast profit at 60% (it depends on those clients staying) gives ~$15k a year; at a typical 2× multiple that's ~$30k, plus the website ($12k) as a separate asset: **~$42k**, close to the ~$44k above. The price uses the higher of the two, never both added together.
 
 **What moves it within the range:**
-- **Shorter renewal, low-end credits → ~$23k for the 75%** (whole studio ~$31k): gear at used value ($13.4k), build-out use $7.2k (2–3 years), listings $3k, website $6.5k, bonus $1k.
+- **Shorter renewal, low-end credits → ~$23k for the 75%** (whole studio ~$30k): gear at used value ($13.4k), build-out use $7.2k (2–3 years), listings $3k, website $6.5k.
 - **Both podcast-services clients stay → ~$55k for the 75%** (whole studio ~$74k): the full ~$26.7k a year at 2× ($53k) plus the website at the top of its range ($20.5k). An earn-out on podcast-services revenue fits this case best.
 
 **Cost to recreate: ~$155–285k**, including the ~$60k build-out and the $45–150k website and booking system. That's what the buyers avoid by not building from scratch; it's a setup cost, not a price.
