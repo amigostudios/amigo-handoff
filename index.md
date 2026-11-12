@@ -148,30 +148,6 @@ Included with the sale and rebranded. Keep the same accounts so the reviews carr
 | [ShareGrid](https://www.sharegrid.com/p/austin_faure) | 94 reviews, 100% positive |
 | Google Business Profile | 5.0, 27 reviews |
 
-## Austin's equipment (Not included in the sale)
-
-Also not included: Austin's other personal stuff that isn't listed. **Simple rule:** anything Austin hasn't taken out by hand off day stays with the studio.
-
-**Camera gear**
-
-- Canon 1DX
-- Blackmagic 6K Pro
-- 35mm
-- 100mm
-- 70-200mm ×2
-- 200mm
-- 500mm
-- 1.4x extender ×2
-- 2x extender ×2
-- Speed lights ×3
-- Tripods ×3
-
-**Lighting**
-
-- 600c
-- F22x
-- 80c
-- Infinibar PB6 2' ×2
 
 ## Notes / parking lot
 

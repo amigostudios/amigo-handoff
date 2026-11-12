@@ -52,6 +52,12 @@ Some options to react to (numbers are just examples):
 <div class="ho-f agreed"><b>Agreed</b><textarea rows="1" data-key="ag.brand.agreed" placeholder="…" aria-label="Agreed"></textarea><span class="ho-fmeta" data-meta="ag.brand.agreed"></span></div>
 </div>
 
+## Website and booking system
+
+<div class="ho-fields">
+<div class="ho-f agreed"><b>Agreed</b><textarea rows="1" data-key="ag.booking.agreed" placeholder="…" aria-label="Agreed"></textarea><span class="ho-fmeta" data-meta="ag.booking.agreed"></span></div>
+</div>
+
 ## Ongoing agreements
 
 Anything after hand off: questions, referrals, royalty reporting, marketing help.
