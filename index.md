@@ -71,6 +71,7 @@ Pat already owns the podcast cameras, mics, Rodecaster, switcher and tube lights
 - leather couch
 - concrete coffee table
 - grey couch ×2
+- couch (upstairs)
 - side tables ×2
 - lamps ×5
 - lounge chairs (front room)
