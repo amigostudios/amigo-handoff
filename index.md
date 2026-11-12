@@ -49,14 +49,23 @@ Tick things off, fill in who's doing it and by when, and add your own items.
 
 Everything below stays with the studio, **plus all the other small studio stuff not listed** (cables, supplies, props, etc.).
 
-Pat already owns the podcast cameras, mics, Rodecaster and switcher — not listed.
+Pat already owns the podcast cameras, mics, Rodecaster, switcher and tube lights — not listed. The strobes, hazer, floppies and green screens go with the cyclorama studio.
+
+**Build-out (stays with the space)**
+
+- cyclorama / infinity wall
+- front room dividers and pony wall
+- upstairs podcast studio wall and soundproofing
+- custom downstairs office
+- makeup station
+- closet and closet shelving
+- other custom builds
 
 **Furniture**
 
-- desks ×8
+- custom-fabricated desks ×8
 - custom shelves
 - wood coffee table
-- makeup station
 - makeup chair ×2
 - office chairs ×5
 - leather couch
@@ -73,7 +82,6 @@ Pat already owns the podcast cameras, mics, Rodecaster and switcher — not list
 - white cabinets
 - kitchenette
 - fridge
-- closet shelving
 - Costco bin shelving
 
 **Lighting**
