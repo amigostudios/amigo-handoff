@@ -42,8 +42,8 @@ Mercury history starts **March 4, 2026**, so we have 8 months to work from and n
 |---|---:|---:|---:|
 | Lighting (MixPanel 150 ×4, MixPanel 60, Forza 500 kit, FS-300 ×3, Godox DP600 ×3, Forza 60B, projector, softboxes) | $12.2k | $6.0k | $3.9k |
 | Modifiers, grip and misc (C-stands ×5, floppies, domes, cart, hazer, green screens, neon sign, racks, steamer, etc.) | $5.8k | $2.4k | $1.5k |
-| Furniture and decor (desks, couches, coffee tables, lounge and office chairs, fridge, cabinets, plants) | $14.2k | $4.7k | $2.7k |
-| **Movable total** | **$32.2k** | **$13.1k** | **$8.1k** |
+| Furniture and decor (desks, couches, coffee tables, lounge and office chairs, fridge, cabinets, plants) | $15.1k | $5.0k | $2.9k |
+| **Movable total** | **$33.1k** | **$13.4k** | **$8.3k** |
 
 Pat's tube lights are excluded. The strobes, hazer, floppies and green screens belong to the cyclorama studio rental and are included. The makeup station, pony wall and closet shelving are counted in the build-out below, not here.
 
@@ -88,18 +88,18 @@ The whole studio is worth ~$45k. Pat already owns 25%, so Pat and/or his new par
 
 | Piece | Value | Basis |
 |---|---:|---|
-| Gear and furniture, in use | $17.6k | Movable equipment and furniture, valued as set up in a working studio (Pat's rig excluded) |
+| Gear and furniture, in use | $18.0k | Movable equipment and furniture, valued as set up in a working studio (Pat's rig excluded) |
 | Build-out use | $10.2k | ~$2.2k to May 2027 + half of ~4 years × ~$4k a year of use on the ~$60k build-out |
 | Listings & reputation | $4.0k | Peerspace: bookings a zero-review listing would lose in its first 1–2 years |
 | Website and booking system | $12.0k | $15k credit for the site, booking system and SEO pages, reduced because the booking system is non-exclusive |
 | Open, booking studio | $1.0k | Subtenant in place, phone numbers |
-| **Whole studio** | **$44.8k ≈ $45k** | |
-| **Austin's 75% (× 75%) = the price** | **$33.6k ≈ $34k** | |
+| **Whole studio** | **$45.2k ≈ $45k** | |
+| **Austin's 75% (× 75%) = the price** | **$33.9k ≈ $34k** | |
 
 **Checked against earnings:** since July 17 the studio makes about $26.7k a year before anyone is paid, nearly all of it from podcast services for two clients. Counting that podcast profit at 60% (it depends on those clients staying) gives ~$15k a year; at a typical 2× multiple that's ~$30k, plus the website ($12k) as a separate asset: **~$42k**, close to the ~$45k above. The price uses the higher of the two, never both added together.
 
 **What moves it within the range:**
-- **Shorter renewal, low-end credits → ~$23k for the 75%** (whole studio ~$31k): gear at used value ($13.1k), build-out use $7.2k (2–3 years), listings $3k, website $6.5k, bonus $1k.
+- **Shorter renewal, low-end credits → ~$23k for the 75%** (whole studio ~$31k): gear at used value ($13.4k), build-out use $7.2k (2–3 years), listings $3k, website $6.5k, bonus $1k.
 - **Both podcast-services clients stay → ~$55k for the 75%** (whole studio ~$74k): the full ~$26.7k a year at 2× ($53k) plus the website at the top of its range ($20.5k). An earn-out on podcast-services revenue fits this case best.
 
 **Cost to recreate: ~$155–285k**, including the ~$60k build-out and the $45–150k website and booking system. That's what the buyers avoid by not building from scratch; it's a setup cost, not a price.
