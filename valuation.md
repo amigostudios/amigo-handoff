@@ -90,7 +90,7 @@ The whole studio is worth ~$44k. Pat already owns 25%, so Pat and/or his new par
 |---|---:|---|
 | Gear and furniture, in use | $18.0k | Movable equipment and furniture, valued as set up in a working studio (Pat's rig excluded) |
 | Build-out use | $10.2k | ~$2.2k to May 2027 + half of ~4 years × ~$4k a year of use on the ~$60k build-out |
-| Listings & reputation | $4.0k | Peerspace: bookings a zero-review listing would lose in its first 1–2 years |
+| Listings & reputation | $4.0k | The Peerspace listings' 95 five-star reviews. A brand-new listing would start with none and likely get fewer bookings for its first year or two |
 | Website and booking system | $12.0k | $15k credit for the site, booking system and SEO pages, reduced because the booking system is non-exclusive |
 | **Whole studio** | **$44.2k ≈ $44k** | |
 | **Austin's 75% (× 75%) = the price** | **$33.2k ≈ $33k** | |
