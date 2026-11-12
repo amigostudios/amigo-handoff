@@ -29,7 +29,7 @@ Mercury history starts **March 4, 2026**, so we have 8 months to work from and n
 
 **Running costs (Jun–Oct, per month):** rent + CAM + insurance $3,818 · utilities ~$870 · studio hosting (Jacob) ~$640 · supplies, software, platform fees, ads and other ~$790 · an estimated ~$250 for costs that don't run through Mercury (business insurance, tax prep, California $800 LLC tax). One-time items (a $700 door repair) and gear purchases are left out, and replaced with a small gear allowance (~$150/mo). Mar–May costs ran about $300/mo higher because the studio was busier.
 
-**What changed in June:** Austin went from 60+ hours a week to about 1 hour a week. Studio revenue fell about 43% (Stripe about 53%). Costs are mostly fixed, so the monthly result went from about +$3.9k to about –$0.6k. The spring result included a lot of unpaid owner time. For reference, a part-time studio manager (20 hrs/wk) would cost roughly $29k/yr and a full-time one roughly $55–64k/yr (estimates).
+**What changed in June:** Austin went from about 20 hours a week to about 1 hour a week. Studio revenue fell about 43% (Stripe about 53%). Costs are mostly fixed, so the monthly result went from about +$3.9k to about –$0.6k. The spring result included those ~20 unpaid owner hours a week; covering them with a part-time manager would cost roughly $29k/yr (estimate).
 
 **Early November:** Nov 1–10 brought in **$5,161** of studio revenue (Stripe $3,523, Peerspace $1,040, subtenant $598). That's a strong start. A full November, plus prior-year Stripe and Peerspace history, would show whether October was a low point or the new normal.
 
@@ -41,14 +41,14 @@ Mercury history starts **March 4, 2026**, so we have 8 months to work from and n
 
 | Group | New cost | Used value | Quick-sale value |
 |---|---:|---:|---:|
-| Lighting (MixPanel 150 ×4, MixPanel 60, Forza 500 kit, FS-300 ×3, Godox DP600 ×3, Forza 60B, projector, softboxes, tube lights) | $12.7k | $6.2k | $4.1k |
+| Lighting (MixPanel 150 ×4, MixPanel 60, Forza 500 kit, FS-300 ×3, Godox DP600 ×3, Forza 60B, projector, softboxes) | $12.2k | $6.0k | $3.9k |
 | Modifiers, grip and misc (C-stands ×5, floppies, domes, cart, hazer, green screens, neon sign, racks, steamer, etc.) | $5.8k | $2.4k | $1.5k |
-| Furniture and decor (8 desks, couches, coffee tables, lounge and office chairs, makeup station, fridge, cabinets, plants) | $14.1k | $4.7k | $2.7k |
-| **Movable total** | **$32.6k** | **$13.3k** | **$8.3k** |
+| Furniture and decor (8 custom desks at $400 each, couches, coffee tables, lounge and office chairs, fridge, cabinets, plants) | $14.7k | $4.9k | $2.8k |
+| **Movable total** | **$32.7k** | **$13.2k** | **$8.3k** |
 
-To check together: whether the two tube lights belong to the studio or to Pat's rig, and which photo/cyc gear (strobes, hazer, floppies, green screens) the podcast-focused studio actually wants to keep.
+Pat's tube lights are excluded. The strobes, hazer, floppies and green screens belong to the cyclorama studio rental and are included. The makeup station, pony wall and closet shelving are counted in the build-out below, not here.
 
-**Build-out** (stays with the space): the cyc wall, front-room dividers, the upstairs podcast-studio wall, soundproofing, the custom downstairs office, plus the slatted divider and shelves, wall panels, kitchenette and pendants. It cost **about $60k**. It's attached to the building, and under a standard lease it belongs to the landlord when the lease ends, so it has no resale value. What it's worth is the **right to keep using it**, which lasts only as long as a lease. Walls and soundproofing last far longer than a lease (assume ~15 years, so about $4k a year of use). That's ~$2.2k for the 6.5 months left on the current term. After May 2027 the space and its build-out are the landlord's, and the renewal is what lets the studio keep using them. The value section splits the renewal-term use evenly between seller and buyer: **~$7k for a ~2–3-year renewal, ~$10k for ~4 years, ~$12k for 5 years**.
+**Build-out** (stays with the space): the cyc wall, front-room dividers, the upstairs podcast-studio wall, soundproofing, the custom downstairs office, plus the pony wall, makeup station, closet shelving, slatted divider and shelves, wall panels, kitchenette and pendants. It cost **about $60k**. It's attached to the building, and under a standard lease it belongs to the landlord when the lease ends, so it has no resale value. What it's worth is the **right to keep using it**, which lasts only as long as a lease. Walls and soundproofing last far longer than a lease (assume ~15 years, so about $4k a year of use). That's ~$2.2k for the 6.5 months left on the current term. After May 2027 the space and its build-out are the landlord's, and the renewal is what lets the studio keep using them. The value section splits the renewal-term use evenly between seller and buyer: **~$7k for a ~2–3-year renewal, ~$10k for ~4 years, ~$12k for 5 years**.
 
 **Systems:** the website and booking system (custom booking, Stripe, GoHighLevel, Supabase), Bookabl, the Google Ads account, both phone numbers, and the Innago account. Since the studio is being rebranded, **the Amigo name isn't used after hand off**, and amigostudiosoceanside.com forwards to the new brand so search traffic carries over. The booking-system code is offered under a permanent license for the studio's use. Ownership of the code and the details are to agree.
 
@@ -59,10 +59,9 @@ To check together: whether the two tube lights belong to the studio or to Pat's 
 | Peerspace, photo/video studio | 5.0, 86 reviews, Power Host |
 | Peerspace, podcast studio | 5.0, 9 reviews, Power Host |
 | ShareGrid (gear rentals and sales; Austin's personal profile) | 94 reviews, 100% positive |
-| Instagram @amigostudiosoceanside | ~6.6K followers |
 | Google Business Profile | 5.0, 27 reviews |
 
-Renaming a listing or handle on the same account keeps its reviews and followers. A new account starts at zero. So their value depends on handing over the accounts themselves, through each platform's own process. Peerspace brings in about $8.5–10.7k a year from ~2 bookings a month, and at that pace rebuilding 95 reviews would take 4–5 years. The value below is what a new zero-review listing would likely lose in bookings over its first one to two years. ShareGrid covers gear rental rather than studio bookings, and no ShareGrid income runs through the studio account, so it's valued at little or nothing unless the gear-rental side continues. A "formerly Amigo Studios" line on the listings for a few months keeps the older reviews credible.
+Renaming a listing on the same account keeps its reviews. A new account starts at zero. So their value depends on handing over the accounts themselves, through each platform's own process. Peerspace brings in about $8.5–10.7k a year from ~2 bookings a month, and at that pace rebuilding 95 reviews would take 4–5 years. The value below is what a new zero-review listing would likely lose in bookings over its first one to two years. ShareGrid covers gear rental rather than studio bookings, and no ShareGrid income runs through the studio account, so it's valued at little or nothing unless the gear-rental side continues. A "formerly Amigo Studios" line on the listings for a few months keeps the older reviews credible.
 
 **Subtenant:** $1,046/mo through Innago (about 18% of current studio revenue, covering about 27% of the rent). They're staying. The landlord's consent to the sublease should be written into the new lease.
 
@@ -80,23 +79,23 @@ Renaming a listing or handle on the same account keeps its reviews and followers
 
 ## 4. Value
 
-**Expected price for Austin's 75%: ~$26k**
+**Expected price for Austin's 75%: ~$25k**
 
-The whole studio is worth ~$35k. Pat already owns 25%, so Pat and/or his new partners buy the other 75% (75% × $35k ≈ $26k). Depending on lease length and bookings, the price for the 75% could land between ~$20k and ~$45k.
+The whole studio is worth ~$33.5k. Pat already owns 25%, so Pat and/or his new partners buy the other 75% (75% × $33.5k ≈ $25k). Depending on lease length and bookings, the price for the 75% could land between ~$19k and ~$45k.
 
-**How the ~$35k studio value adds up** (renewal of ~3–5 years, studio kept running):
+**How the ~$33.5k studio value adds up** (renewal of ~3–5 years, studio kept running):
 
 | Piece | Value | Basis |
 |---|---:|---|
 | Gear and furniture, in use | $17.8k | Movable equipment and furniture, valued as set up in a working studio (Pat's rig excluded) |
 | Build-out use | $10.2k | ~$2.2k to May 2027 + half of ~4 years × ~$4k a year of use on the ~$60k build-out |
-| Listings & reputation | $5.0k | Peerspace ~$4k + Instagram ~$1k: bookings a zero-review start would lose in its first 1–2 years |
+| Listings & reputation | $4.0k | Peerspace: bookings a zero-review listing would lose in its first 1–2 years |
 | Open, booking studio | $1.5k | Subtenant in place, phone numbers, working booking system |
-| **Whole studio** | **$34.5k ≈ $35k** | |
-| **Austin's 75% (× 75%) = the price** | **$25.9k ≈ $26k** | |
+| **Whole studio** | **$33.5k** | |
+| **Austin's 75% (× 75%) = the price** | **$25.1k ≈ $25k** | |
 
 **What moves it within the range:**
-- **Shorter renewal (~2–3 years) → ~$20k for the 75%** (whole studio ~$26k): gear at used value ($13.3k), build-out use $7.2k, listings $4k, bonus $1.5k.
+- **Shorter renewal (~2–3 years) → ~$19k for the 75%** (whole studio ~$25k): gear at used value ($13.2k), build-out use $7.2k, listings $3k, bonus $1.5k.
 - **5-year lease and spring-level bookings returning → ~$42–49k for the 75%** (whole studio ~$56–65k): gear $17.8k + build-out $12.2k + about $26–35k for earnings. At today's run-rate the studio makes no profit before anyone is paid, so **earnings add nothing to the expected value**; they only count if bookings recover.
 
 **Cost to recreate: ~$113–150k.** What Pat and/or his team avoid by buying instead of building from scratch (gear, the ~$60k build-out, rent during setup, website and booking system). It's a setup cost, not a price.
@@ -124,7 +123,7 @@ No minority discount applies: the 75% sells as one controlling block, and with P
 3. **Equipment walk-through:** confirm what stays, what belongs to Pat, and what isn't needed. Get real used prices on the larger lights if they matter.
 4. **Costs and obligations outside Mercury:** business insurance, tax prep, the California LLC tax, the three failed ClckPay/SDCCPM payments ($3,930.78; confirm nothing is owed), prepaid bookings and card balances.
 5. **Subtenant:** the sublease document, the landlord's consent, and the end date.
-6. **Transfers:** the Peerspace host account is a shared login, so swap its email and payout to the buyers (reviews stay with it). Then hand over the Google Business Profile, phone numbers, Peerspace host account, Instagram (renamed, not new), ShareGrid if wanted, Google Ads, Bookabl, Innago, domain and redirect, booking-system license, and the forward from amigostudiosoceanside.com to the new brand.
+6. **Transfers:** the Peerspace host account is a shared login, so swap its email and payout to the buyers (reviews stay with it). Then hand over the Google Business Profile, phone numbers, Peerspace host account, ShareGrid if wanted, Google Ads, Bookabl, Innago, domain and redirect, booking-system license, and the forward from amigostudiosoceanside.com to the new brand.
 7. **Paperwork:** check the operating agreement's buyout terms, then do the purchase agreement and the lease documents together. Get short written confirmations from Jeremiah and Beau that they hold no interest in the current business.
 
 
