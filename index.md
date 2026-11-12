@@ -63,7 +63,7 @@ Pat already owns the podcast cameras, mics, Rodecaster, switcher and tube lights
 
 **Furniture**
 
-- custom-fabricated desks ×8
+- desks ×8
 - custom shelves
 - wood coffee table
 - makeup chair ×2
